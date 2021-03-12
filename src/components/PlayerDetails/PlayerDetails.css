@@ -1,0 +1,22 @@
+.banner {
+  height: 250px;
+  width: 100%;
+}
+.card{
+    align-items: center;
+    background-color: rgb(197, 18, 18);
+}
+.cardBody {
+  background-color: tomato;
+}
+span {
+  color: white;
+  /* font-size: 20px; */
+  font-weight: 700;
+}
+.playerDetails {
+  /* background-color: rgba(233, 75, 64, 0.938); */
+  color: navy;
+  border-radius: 5px;
+  text-align: justify;
+}
